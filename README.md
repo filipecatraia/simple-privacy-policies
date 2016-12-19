@@ -10,3 +10,4 @@ The privacy policies of popular services, reviewed, and put in a simpler languag
 - [Spotify](spotify.md)
 - [Tidal](tidal.md)
 - [Todoist](todoist.md)
+- [Qobuz](qobuz.md)

@@ -4,9 +4,9 @@ The privacy policies of popular services, reviewed, and put in a simpler languag
 
 ## Table of contents
 
-- [Bandcamp](blob/master/bandcamp.md)
-- [Apple ID](blob/master/apple-id.md)
-- [Happy Cow](blob/master/happy-cow.md)
-- [Spotify](blob/master/spotify.md)
-- [Tidal](blob/master/tidal.md)
-- [Todoist](blob/master/todoist.md)
+- [Bandcamp](bandcamp.md)
+- [Apple ID](apple-id.md)
+- [Happy Cow](happy-cow.md)
+- [Spotify](spotify.md)
+- [Tidal](tidal.md)
+- [Todoist](todoist.md)
